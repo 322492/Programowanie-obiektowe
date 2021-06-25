@@ -1,0 +1,8 @@
+Przykładowe testy po kompilacji:
+
+java Main czlowiek.txt czlowiek
+
+java Main elf.txt elf
+
+java Main postac.txt postac
+ //w tym przypadku nie ma w folderze istniejacego pliku z zapisaną klasą - zostanie utworzona nowa z losowymi danymi i zapisana do nowego pliku
